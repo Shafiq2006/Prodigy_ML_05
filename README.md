@@ -8,7 +8,6 @@ This project identifies different food categories using a Convolutional Neural N
 - TensorFlow
 - Keras
 - OpenCV
-- h5py
 - Jupyter Notebook
 
 ## Dataset
